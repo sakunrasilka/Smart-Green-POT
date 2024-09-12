@@ -11,6 +11,11 @@ Given below is the CNN layer which I have created for the model.
 
 <img src="https://github.com/user-attachments/assets/49ccb790-8ddd-4867-8536-f7af5097753e" alt="CNN Layer" width="400"/>
 
+Given Below is the accuracy of my model.
+
+<img src="https://github.com/user-attachments/assets/57eb61e5-f970-4a38-b49f-6139ad054a2d" alt="CNN Layer" width="400"/>
+
+
 
 
 
