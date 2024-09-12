@@ -1,6 +1,6 @@
 # Smart-Green-POT
 
-## Train_Plant_Disease.ipynb -->
+### Train_Plant_Disease.ipynb -->
 This is the CNN layer I have created for the plant disease detection Model. Here I have used Tenserflow, Matplotlib, Pandas and Seaborn. I downloaded a train set from kaggle with 70295 files in 38 classes. These 38 classes are different types of diseased and healthy plants leaves of Tomatoe,Apple,Cherry,Corn,Grape,Strawberry and Pepper. ex:- Tomato_healthy, Tomato_Bacterial_spot, Grape_Leaf_blight...
 
 For the Validation set i used another data set from kaggle with 17572 files belon to the 38 classes. To avoid overshooting, I used a smaller learning rate of 0.0001, since there is a chance of underfitting, i increase the number of neurons and the layers of convolution.
@@ -15,7 +15,7 @@ Given Below is the accuracy visualization of my model.
 
 <img src="https://github.com/user-attachments/assets/57eb61e5-f970-4a38-b49f-6139ad054a2d" alt="CNN Layer" width="400"/>
 
-## Webcam.py -->
+### Webcam.py -->
 I used the object detection to identify the plant leaves in real time by using opencv and yolov8
 
 
