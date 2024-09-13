@@ -19,6 +19,9 @@ Given Below is the accuracy visualization of my model.
 I used the object detection to identify the plant leaves in real time by using opencv and yolov8
 I have created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
 
+<img src="https://github.com/user-attachments/assets/c095f14d-55b3-439c-ac73-a82c16f81aac" alt="CNN Layer" width="400"/>
+
+
 
 
 
