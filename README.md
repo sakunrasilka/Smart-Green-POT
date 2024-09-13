@@ -27,6 +27,10 @@ Real time Webcam
 
 <img src="https://github.com/user-attachments/assets/9a9eb9de-6d8c-4923-9537-22300bebb5c9" alt="CNN Layer" width="400"/>
 
+### YoloTrain.ipynb -->
+I used google colab and its gpu to get the weights for a pretrained tomatoe leaf detection model.
+can send the train,valid and test files to yolov8 and get the  weights for the model.
+
 
 
 
