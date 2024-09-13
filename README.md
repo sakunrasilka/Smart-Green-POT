@@ -20,9 +20,11 @@ I used the object detection to identify the plant leaves in real time by using o
 I have created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
 
 Image uploaded
+
 <img src="https://github.com/user-attachments/assets/c095f14d-55b3-439c-ac73-a82c16f81aac" alt="CNN Layer" width="400"/>
 
 Real time Webcam
+
 <img src="https://github.com/user-attachments/assets/9a9eb9de-6d8c-4923-9537-22300bebb5c9" alt="CNN Layer" width="400"/>
 
 
