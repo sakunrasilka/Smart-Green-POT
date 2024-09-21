@@ -18,6 +18,7 @@ Given Below is the accuracy visualization of my model.
 ### Webcam.py -->
 I used the object detection to identify the plant leaves in real time by using opencv and yolov8
 I have created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
+pip install -U ultralytics
 
 Image uploaded
 
