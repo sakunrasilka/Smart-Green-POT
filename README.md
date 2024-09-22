@@ -16,8 +16,8 @@ Given Below is the accuracy visualization of my model.
 <img src="https://github.com/user-attachments/assets/57eb61e5-f970-4a38-b49f-6139ad054a2d" alt="CNN Layer" width="400"/>
 
 ### Webcam.py -->
-I used the object detection to identify the plant leaves in real time by using opencv and yolov8
-I have created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
+It use the object detection to identify the plant leaves in real time by using opencv and yolov8
+Created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
 
 pip install -U ultralytics
 
@@ -30,8 +30,13 @@ Real time Webcam
 <img src="https://github.com/user-attachments/assets/9a9eb9de-6d8c-4923-9537-22300bebb5c9" alt="CNN Layer" width="400"/>
 
 ### YoloTrain.ipynb -->
-I used google colab and its gpu to get the weights for a pretrained tomatoe leaf detection model.
+This use google colab and its gpu to get the weights for a pretrained tomatoe leaf detection model.
 can send the train,valid and test files to yolov8 and get the  weights for the model.
+
+### test.py --> 
+Here this code use to capture the vedio from the webcam and detect whether the plant leaf is diseased or not in real time. The state of the leaf is indicated in a green box around the leaf as below
+
+<img src="https://github.com/user-attachments/assets/c59737f4-e285-42b3-8ded-7b0a9c3fce1f" alt="CNN Layer" width="400"/>
 
 
 
