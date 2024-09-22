@@ -36,7 +36,14 @@ can send the train,valid and test files to yolov8 and get the  weights for the m
 ### test.py --> 
 Here this code use to capture the vedio from the webcam and detect whether the plant leaf is diseased or not in real time. The state of the leaf is indicated in a green box around the leaf as below
 
+In this code if tenserflow and other libraries are not intstalled, can easily install them by using 
+
+pip intall tensorflow
+
 <img src="https://github.com/user-attachments/assets/c59737f4-e285-42b3-8ded-7b0a9c3fce1f" alt="CNN Layer" width="400"/>
+
+### test2.py -->
+This code check whether the plant is diseased or not from an uploaded image
 
 
 
