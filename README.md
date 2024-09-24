@@ -15,6 +15,10 @@ Given Below is the accuracy visualization of my model.
 
 <img src="https://github.com/user-attachments/assets/57eb61e5-f970-4a38-b49f-6139ad054a2d" alt="CNN Layer" width="400"/>
 
+for 50 epochs
+
+<img src="https://github.com/user-attachments/assets/4803a8ec-f9a4-4ce1-91ea-d2c45c0410a6" alt="CNN Layer" width="400"/>
+
 ### Webcam.py -->
 It use the object detection to identify the plant leaves in real time by using opencv and yolov8
 Created a custom trained object detection model for tomatoe leaves. It identify the tomatoe leaves and makes boundary boxes around the exact leaf
