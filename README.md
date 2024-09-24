@@ -49,6 +49,8 @@ pip intall tensorflow
 ### test2.py -->
 This code check whether the plant is diseased or not from an uploaded image
 
+"https://drive.google.com/file/d/1VuoScpUIpkugshXDCpRj5RnPwURXQL7o/view?usp=sharing"
+
 
 
 
